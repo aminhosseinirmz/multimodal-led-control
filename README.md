@@ -136,3 +136,39 @@ Examples:
 ## Important Note
 
 The gesture recognition system depends on the MediaPipe model file:
+app/src/main/assets/
+Otherwise, gesture recognition will not work.
+
+---
+
+## Arduino Side
+
+The Arduino receives LED packets via serial Bluetooth communication and updates LED states accordingly.
+
+- LED1 & LED2 → hardware PWM  
+- LED3 → software-based PWM simulation  
+
+---
+
+## Limitations
+
+- Uses pretrained gesture model (no custom training)  
+- Limited number of gesture commands  
+- Bluetooth range constraints  
+- Moderate robustness to noise in voice/gesture input  
+
+---
+
+## Future Improvements
+
+- Custom gesture training  
+- More flexible voice commands  
+- UI improvements  
+- Scheduling and automation features  
+- Improved Bluetooth stability  
+
+---
+
+## Author
+
+**Seyedamin Hosseini**
