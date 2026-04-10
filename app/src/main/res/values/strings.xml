@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LedControl</string>
+    <string name="guide">"Press the voice button, hold it, say one the following commands, and release the button:\n
+1. "Turn on all lights" - Turns on all three LED lights.\n
+2. "Turn off all lights" - Turns off all three LED lights.\n
+3. "Turn on light one" - Turns on the first LED light (the same for second and third LEDs in all commands with the number of LEDs)\n
+4. "Turn off light one" - Turns off the first LED light.\n
+5. "light one red" - Sets the color of the first LED light to red.\n
+6. "light one blue" - Sets the color of the first LED light to blue.\n
+8. " light one green" - Sets the color of the first LED light to green.\n
+9. " light one yellow" - Sets the color of the first LED light to yellow.\n
+10. " light one pink" - Sets the color of the first LED light to pink.\n
+11. " light one white" - Sets the color of the first LED light to white.\n"</string>
+</resources>
