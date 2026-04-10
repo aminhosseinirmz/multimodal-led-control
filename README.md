@@ -26,7 +26,7 @@ This project is a multimodal LED control system built with Android and Arduino. 
 
 The app sends LED state data to an Arduino board through Bluetooth, and the Arduino updates the LEDs in real time.
 <p align="center">
-  <img src="pipeline.jpg" width="30%" />
+  <img src="pipeline.jpg" width="50%" />
 </p>
 ---
 
