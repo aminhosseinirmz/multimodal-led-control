@@ -3,7 +3,6 @@
 A multimodal smart lighting system that enables real-time control of RGB LEDs using touch, voice commands, and hand gestures via an Android application and Arduino.
 
 > This project demonstrates the integration of mobile development, embedded systems, and computer vision in a single interactive system.
-
 ---
 
 ## Demo
