@@ -7,8 +7,12 @@ A multimodal smart lighting system that enables real-time control of RGB LEDs us
 
 ## Demo
 
-<!-- Add screenshots later -->
-![App Screenshot](images/app.png)
+<p align="center">
+  <img src="images/1.jpg" width="22%" />
+  <img src="images/2.jpg" width="22%" />
+  <img src="images/3.jpg" width="22%" />
+  <img src="images/4.jpg" width="22%" />
+</p>
 
 ---
 
