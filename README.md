@@ -172,3 +172,4 @@ The Arduino receives LED packets via serial Bluetooth communication and updates 
 ## Author
 
 **Seyedamin Hosseini**
+aminhosseini.rmz3@gmail.com
